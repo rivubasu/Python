@@ -1,0 +1,4 @@
+# Ignore virtual environment folder
+venv/
+# Ignore requirements.txt if you don’t want to push it
+requirements.txt
